@@ -1,2 +1,2 @@
 # OpenSourceLearn
-OpenSource project for Hacktoberfest
+OpenSource repo for Hacktoberfest
